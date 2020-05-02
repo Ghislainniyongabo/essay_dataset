@@ -11,5 +11,5 @@ ratio 0f just 0,03 in early April.
 
 In Italy, the outbreak affected around 10149 cases and the IFR was of 0,06 in the data of 10 March but an increase of confirmed cases up to 147577 , was seen with an a double IFR ration with 0,12 .
 
-The data show also that the IFR ratio from all the countries were not constant which become hard to estimate the number of confirmed cases using the IFR ratio.
+In general, the data show also that the IFR ratio from all the countries were not constant which become hard to estimate the number of confirmed cases using the IFR ratio.
  
